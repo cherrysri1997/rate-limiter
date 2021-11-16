@@ -15,3 +15,4 @@
   * *Here is the rate limited data.... Your API Key is <API_KEY> and number of tokens available for you are: <#_of_tokens_available>*
 
 ## Screenshots
+https://github.com/cherrysri1997/rate-limiter/blob/master/Screenshots/Number%20of%20API%20Requests.jpg
