@@ -15,4 +15,12 @@
   * *Here is the rate limited data.... Your API Key is <API_KEY> and number of tokens available for you are: <#_of_tokens_available>*
 
 ## Screenshots
-https://github.com/cherrysri1997/rate-limiter/blob/master/Screenshots/Number%20of%20API%20Requests.jpg
+![Number of Requests](https://github.com/cherrysri1997/rate-limiter/blob/master/Screenshots/Number%20of%20API%20Requests.jpg)
+![HTTP Request](https://github.com/cherrysri1997/rate-limiter/blob/master/Screenshots/HTTP%20Request.jpg)
+![HTTP Request Header](https://github.com/cherrysri1997/rate-limiter/blob/master/Screenshots/Header%20of%20an%20API%20Request%20with%20API%20Key.jpg)
+![Successful API Reqeuest](https://github.com/cherrysri1997/rate-limiter/blob/master/Screenshots/Second%20Successful%20API%20Request%20SS.jpg)
+![Response Body of Successful Request](https://github.com/cherrysri1997/rate-limiter/blob/master/Screenshots/Response%20Body%20of%20a%20Successful%20API%20Request.jpg)
+![Failed API Request](https://github.com/cherrysri1997/rate-limiter/blob/master/Screenshots/Failed%20API%20Request.jpg)
+![Unauthorized API Request](https://github.com/cherrysri1997/rate-limiter/blob/master/Screenshots/Unauthorized%20API%20Request.jpg)
+![User with 2343_API_KEY](https://github.com/cherrysri1997/rate-limiter/blob/master/Screenshots/User%20with%20API%20Key%202343.jpg)
+![User with 4323_API_KEY](https://github.com/cherrysri1997/rate-limiter/blob/master/Screenshots/User%20with%20API%20Key%204323.jpg)
