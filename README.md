@@ -13,6 +13,7 @@
 * If all the 50 tokens are consumed by a tenant, then HTTP Status Code 429 is sent by the server.
 * The data accessed by the client for a successful API Request to ("/getRateLimitedData") is of the format:
   * *Here is the rate limited data.... Your API Key is <API_KEY> and number of tokens available for you are: <#_of_tokens_available>*
+* I used Apache JMeter and Postman for testing the API End-Point.
 
 ## Screenshots
 ![Number of Requests](https://github.com/cherrysri1997/rate-limiter/blob/master/Screenshots/Number%20of%20API%20Requests.jpg)
